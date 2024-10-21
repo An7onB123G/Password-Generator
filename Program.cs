@@ -6,6 +6,7 @@ namespace Password_Generator
     {
         static void Main(string[] args)
         {
+            // test
             SomethingActionController controller = new SomethingActionController();
             controller.Start();
         }
